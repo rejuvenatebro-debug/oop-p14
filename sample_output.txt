@@ -1,0 +1,6 @@
+Original Marks: 80
+Using Pointer: 80
+Using Reference: 80
+
+Product Price: Rs. 500
+Memory released
